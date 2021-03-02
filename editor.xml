@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="JetBrains Mono Medium" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
