@@ -24,6 +24,7 @@
     <mask>*.js</mask>
     <mask>*spec.ts</mask>
     <mask>*.json</mask>
+    <mask>*.spec.ts</mask>
     <mask>*.ts</mask>
   </component>
 </application>
